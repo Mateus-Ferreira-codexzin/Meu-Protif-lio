@@ -80,7 +80,7 @@ main {
 
 .side-item:hover:not(.active),
 #logout_btn:hover {
-    background-color: #e3e9f7;
+    background-color: grey;
 }
 
 .side-item a {
